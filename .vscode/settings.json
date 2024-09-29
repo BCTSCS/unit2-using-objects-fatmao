@@ -1,0 +1,10 @@
+{
+    "testExplorer.codeLens": false,
+    "testExplorer.errorDecorationHover": false,
+    "testExplorer.errorDecoration": false,
+    "testExplorer.gutterDecoration": false,
+    "testExplorer.hideEmptyLog": false,
+    "testExplorer.hideWhen": "noTests",
+    "go.testExplorer.packageDisplayMode": "nested",
+    "explorer.autoOpenDroppedFile": false
+}
